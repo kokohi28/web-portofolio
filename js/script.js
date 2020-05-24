@@ -69,8 +69,8 @@ document.querySelector(".email-me").addEventListener("click", function() {
 
 function funcEmailMe() {
   let mailAddr = 'himawan.koko@gmail.com';
-  let mailSubject = 'Interesting%32in%32CV';
-  let mailBody = 'Hi%32Koko…';
+  let mailSubject = 'Interested%20in%20your%20CV';
+  let mailBody = 'Hi%20Koko…';
   let mailStr = `mailto:${mailAddr}?subject=${mailSubject}&body=${mailBody}`; 
   console.log(mailStr)
   window.open(mailStr);
