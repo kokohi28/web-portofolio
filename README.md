@@ -2,12 +2,15 @@
 Front-end : Use HTML, CSS and Javascript
 Back-end : Nginx, serve static files
 
-### Student
+## Student
 Informatic Engineering of State University of Surabaya (UNESA)
 - Koko Himawan Permadi (19051204111)
 
 ## Preview
 Web Portofolio
-![Web Portofolio](https://github.com/kokohi28/web-portofolio/blob/master/home_sample.png?raw=true)
+![](https://github.com/kokohi28/web-portofolio/blob/master/home_sample.png?raw=true)
+
+## Website link
+http://hi-coco.xyz:5002
 
 
