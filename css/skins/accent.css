@@ -1,0 +1,26 @@
+.aside .main-logo h1::before{
+  border-left: 4px solid #00ab60;
+}
+.aside .main-logo h1::after{
+  border-right: 4px solid #00ab60;
+}
+
+.portofolio .portofolio-item-inner .portofolio-info .portofolio-tags a,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+  color: #00ab60;
+}
+
+.portofolio .portofolio-item-inner .portofolio-img .portofolio-date,
+.btn,
+.aside .menu-toggler span,
+.aside .menu-toggler span::before,
+.aside .menu-toggler span::after,
+.home .intro .social-links a,
+.section-title h2::before,
+.about .timeline-item::before,
+.about .timeline .circle-dot,
+.about .skills .skill-item .progress .progress-in{
+  background-color: #00ab60;
+}
