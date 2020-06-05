@@ -13,6 +13,6 @@ Informatic Engineering of State University of Surabaya (UNESA)
 site favicon is belonging to Halo Messenger Icon
 
 ## Website link
-http://hi-coco.xyz:5002
+http://hi-coco.xyz
 
 
